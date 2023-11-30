@@ -1,4 +1,4 @@
-// Codewars Challenge 56 (Level 7kyu): Find the anonymous function
+// Codewars Challenge 57 (Level 7kyu): Find the anonymous function
 
 // Find the anonymous function in the given array and use the function to filter the array
 
